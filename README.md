@@ -1,2 +1,0 @@
-# resume
-ctg-420
